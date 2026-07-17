@@ -1,8 +1,3 @@
-# sign_recognition
-Sign language recognition system using MediaPipe hand landmarks and machine learning for live gesture-to-text interpretation.
-Here's a professional **README.md** for your **Sign Recognition** project based on the work you've shared (Python, OpenCV, MediaPipe, hand landmark detection).
-
-````markdown
 # ✋ Sign Recognition System
 
 A real-time hand sign recognition system built using **Python**, **OpenCV**, and **MediaPipe**. This project detects a user's hand through a webcam, extracts hand landmarks, and recognizes different hand signs for human-computer interaction.
