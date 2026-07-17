@@ -78,3 +78,78 @@ python main.py
 Your webcam will open and begin detecting hand gestures in real time.
 
 ---
+
+## 🧠 How It Works
+
+1. OpenCV captures live video from the webcam.
+2. Each frame is processed by MediaPipe Hands.
+3. MediaPipe identifies 21 key hand landmarks.
+4. Landmark positions are analyzed.
+5. The corresponding hand sign is recognized.
+6. The detected sign is displayed on the screen.
+
+---
+
+## 📊 Applications
+
+- Sign Language Recognition
+- Human-Computer Interaction
+- Gesture-Based Control Systems
+- Robotics
+- Smart Home Automation
+- Educational AI Projects
+
+---
+
+## 🔮 Future Improvements
+
+- Support complete sign language sentences
+- Train a deep learning model for higher accuracy
+- Add voice output for recognized signs
+- Multi-hand gesture recognition
+- Mobile application support
+
+---
+
+## 📸 Sample Output
+
+```
+Hand Detected ✔
+Gesture: Thumbs Up 👍
+
+Landmarks: 21
+FPS: 30
+```
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I learned:
+
+- Computer Vision fundamentals
+- Real-time video processing
+- Hand landmark detection
+- MediaPipe Hands framework
+- OpenCV image processing
+- Gesture recognition techniques
+- Python application development
+
+---
+
+## 👨‍💻 Author
+
+**Harika Peddireddy**
+
+
+
+Aditya Degree College, Kakinada
+
+---
+
+## 📄 License
+
+This project is developed for educational and learning purposes.
+````
+
+This README is suitable for uploading to GitHub and clearly explains your Sign Recognition project in a professional way.
