@@ -140,6 +140,8 @@ Through this project, I learned:
 ## 👨‍💻 Author
 
 **Harika Peddireddy**
+**Gopi Amruta Lakshmi**
+**Nurse Likhitha Jasmine**
 
 
 
