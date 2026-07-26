@@ -1,8 +1,8 @@
-# ✋ Sign Recognition System
+#  Sign Recognition System
 
 A real-time hand sign recognition system built using **Python**, **OpenCV**, and **MediaPipe**. This project detects a user's hand through a webcam, extracts hand landmarks, and recognizes different hand signs for human-computer interaction.
 
-## 📌 Project Overview
+##  Project Overview
 
 The Sign Recognition System uses computer vision and machine learning techniques to identify hand gestures in real time. MediaPipe detects 21 hand landmarks, while OpenCV processes webcam frames and displays the recognized gestures.
 
@@ -10,7 +10,7 @@ This project demonstrates how AI-powered vision systems can understand human han
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time hand detection using webcam
 - Detects 21 hand landmarks
@@ -21,7 +21,7 @@ This project demonstrates how AI-powered vision systems can understand human han
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.10
 - OpenCV
@@ -30,7 +30,7 @@ This project demonstrates how AI-powered vision systems can understand human han
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Sign-Recognition/
@@ -45,7 +45,7 @@ Sign-Recognition/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the repository
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Run:
 
@@ -79,7 +79,7 @@ Your webcam will open and begin detecting hand gestures in real time.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. OpenCV captures live video from the webcam.
 2. Each frame is processed by MediaPipe Hands.
@@ -90,7 +90,7 @@ Your webcam will open and begin detecting hand gestures in real time.
 
 ---
 
-## 📊 Applications
+##  Applications
 
 - Sign Language Recognition
 - Human-Computer Interaction
@@ -101,7 +101,7 @@ Your webcam will open and begin detecting hand gestures in real time.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Support complete sign language sentences
 - Train a deep learning model for higher accuracy
@@ -111,7 +111,7 @@ Your webcam will open and begin detecting hand gestures in real time.
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 Hand Detected ✔
@@ -123,7 +123,7 @@ FPS: 30
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -137,7 +137,7 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Harika Peddireddy**
 **Gopi Amruta Lakshmi**
@@ -149,7 +149,7 @@ Aditya Degree College, Kakinada
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational and learning purposes.
 ````
